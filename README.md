@@ -15,6 +15,7 @@ Manufacturing and process engineer with 20+ years spanning high-volume EV produc
 - 📋 Standardized **200+ work instructions** and reduced scrap **15%** at Thermo Fisher Scientific
 - 🤖 Building tools that turn engineering knowledge into structured, reusable assets — see [`pfmea-doc-gen`](https://github.com/Fitsumtf/pfmea-doc-gen)
 - 📄 Published researcher (7+ international publications) and peer reviewer for engineering journals
+- 🤖 Building AI tools that turn engineering knowledge into structured, searchable assets — see [`design-review-miner`](https://github.com/Fitsumtf/design-review-miner) and [`pfmea-doc-gen`](https://github.com/Fitsumtf/pfmea-doc-gen)
 
 ---
 
@@ -71,6 +72,9 @@ Manufacturing and process engineer with 20+ years spanning high-volume EV produc
 ## 📌 Featured Projects
 
 ### 🧰 [pfmea-doc-gen](https://github.com/Fitsumtf/pfmea-doc-gen) — PFMEA & Failure Analysis Report Generator
+### 🤖 [design-review-miner](https://github.com/Fitsumtf/design-review-miner) — AI Retrieval of Past Engineering Lessons
+
+Machine learning tool (TF-IDF + cosine similarity) that indexes historical design review and failure records, then automatically surfaces similar past issues — with their root causes and proven fixes — when a new problem is described. A working prototype of AI-assisted design review.
 
 Python package that generates professional, color-coded PFMEA and 8D-style Failure Analysis reports as Word documents from structured inputs — turning engineering knowledge into structured, reusable assets.
 
