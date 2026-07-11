@@ -78,6 +78,9 @@ Machine learning tool (TF-IDF + cosine similarity) that indexes historical desig
 
 Python package that generates professional, color-coded PFMEA and 8D-style Failure Analysis reports as Word documents from structured inputs — turning engineering knowledge into structured, reusable assets.
 
+### 🤖 [design-review-miner](https://github.com/Fitsumtf/design-review-miner) — AI Retrieval of Past Engineering Lessons
+
+Machine learning tool (TF-IDF + cosine similarity) that indexes historical design review and failure records, then automatically surfaces similar past issues — with their root causes and proven fixes — when a new problem is described. A working prototype of AI-assisted design review.
 ### ⚡ Tesla EV End-of-Line Optimization
 
 Designed and launched the first Body Fitting SOP for Model Y & Model 3; improved throughput from ~40 to 48–50 JPH through targeted process design, Lean principles, and Six Sigma DoE.
