@@ -1,53 +1,58 @@
 # Hi, I'm Dr. Fitsum Taye Feyissa 👋
 
-> **Manufacturing & Process Engineering Leader · Ph.D. · 20+ Years Global Experience**
-> 
-> Fremont, CA · [LinkedIn](https://www.linkedin.com/in/dr-fitsum-feyissa-45949443) · fitsum.tf@gmail.com | fitsumtf@activemails.net
+> **Manufacturing & Process Engineer · Ph.D. · 20+ Years Global Experience · AI/ML in Manufacturing**
+>
+> Santa Clara, CA · [LinkedIn](https://www.linkedin.com/in/dr-fitsum-feyissa-45949443) · <fitsum.tf@gmail.com>
 
 ---
 
 ## About Me
 
-Results-driven engineering leader with 20+ years spanning high-volume EV production at **Tesla**, advanced materials R&D at **IIT Delhi**, and AI/ML-integrated smart manufacturing at **Thermo Fisher Scientific**. Currently pursuing an **M.Sc. in Applied Data Science (AI & ML)** to bridge physical manufacturing with intelligent automation.
+Manufacturing and process engineer with 20+ years spanning high-volume EV production at **Tesla**, precision instrument manufacturing at **Thermo Fisher Scientific**, and advanced materials R&D at **IIT Delhi**. Currently pursuing an **M.Sc. in Applied Data Science (AI & ML)** — building at the intersection of physical manufacturing and intelligent software.
 
-- 🔧 Delivered **85% efficiency gains** and **95% defect reduction** on Tesla's Model Y/Model 3 lines
+- 🔧 Improved Body Fitting throughput from ~40 to **48–50 JPH** and achieved **95% loose-object defect reduction** on Tesla's Model Y/Model 3 lines
 - 🏭 Expert in **DFM, PFMEA, Lean/Six Sigma, OEE optimization**, and end-of-line process development
-- 🤖 Applying **Power BI, Python, and AI/ML** to manufacturing intelligence at Thermo Fisher Scientific
-- 📄 Published researcher and peer reviewer for international engineering journals and patents
-- 🎯 Actively seeking **Director/VP of Engineering** or **Chief Engineer** roles
+- 📋 Standardized **200+ work instructions** and reduced scrap **15%** at Thermo Fisher Scientific
+- 🤖 Building tools that turn engineering knowledge into structured, reusable assets — see [`pfmea-doc-gen`](https://github.com/Fitsumtf/pfmea-doc-gen)
+- 📄 Published researcher (7+ international publications) and peer reviewer for engineering journals
 
 ---
 
 ## 🛠️ Core Expertise
 
 | Domain | Skills |
-|---|---|
+| --- | --- |
 | **Manufacturing & Operations** | Lean · Six Sigma · PFMEA · DFM · OEE · EV Assembly · MODAPTS/MOST · Automation |
 | **Quality & Risk Management** | ISO 13485:2016 · ISO 14971 · FDA QMSR (21 CFR Part 820) · Failure Analysis · MRB |
-| **Digital & Data Tools** | Python · R · Power BI · MATLAB · AI/ML · SolidWorks · AutoCAD · CATIA · Siemens NX |
+| **Digital & Data Tools** | Python · R · Power BI · MATLAB · AI/ML · SolidWorks · AutoCAD · CATIA · Siemens NX · Teamcenter |
 | **Leadership** | Cross-functional team leadership · Technical documentation · Project management |
 
 ---
 
 ## 💼 Professional Experience
 
-**OE Process Engineer** — *Thermo Fisher Scientific, Fremont CA* `2024–Present`
-- Developing visual-rich SOPs, Power BI manufacturing dashboards, and AI/ML-integrated workflows for semiconductor instrument production.
+**OE Process Engineer** — *Thermo Fisher Scientific, Fremont CA* `2024–2026`
+
+- Developed visual-rich SOPs and work instructions (200+), Power BI manufacturing dashboards, and AI/ML-integrated workflows for semiconductor instrument production. Reduced scrap by 15%.
 
 **Manufacturing Process Engineer – Lead (End of Line & GA3)** — *Tesla, Fremont CA* `2018–2024`
-- Led Model Y/Model 3 process optimization: **85% efficiency improvement**, **95% loose-object defect reduction**, **40% scrap reduction**.
+
+- Led Model Y/Model 3 process optimization: Body Fitting throughput ~40 → **48–50 JPH**, **95% loose-object defect reduction**, **40% scrap reduction**.
 - Designed mechanical joining systems, custom jigs/fixtures; executed 80+ cost-minimization projects.
 - *Rock Star Certificate · Continuous Improvement Center Memento · 5-Year Silver Memento*
 
-**Founder & R&D Engineering Head** — *Mezewir Industrial Solutions PLC, Ethiopia (Remote)* `2022–2025`
-- Built and scaled an R&D function for advanced agricultural and industrial machinery, end-to-end from design through production launch.
+**Co-Founder & R&D Engineering Head** — *Mezewir Industrial Solutions PLC* `2022–2025`
+
+- Built and led a 16-person R&D function for agricultural and industrial machinery, end-to-end from design through production launch.
 
 **Research Scholar – Advanced Forming Techniques** — *IIT Delhi, India* `2012–2018`
-- Pioneering research in cryogenic rolling, sheet hydroforming, and ultra-fine-grain aluminium alloys.
+
+- Research in cryogenic rolling, sheet hydroforming, and ultra-fine-grain aluminium alloys.
 - *Outstanding Researcher Contributions Award · Distinguished Achievement in Innovation*
 
 **Lecturer** — *Adama Science and Technology University, Ethiopia* `2005–2012`
-- Founded and equipped a dedicated sheet-metal forming and CAD/CAM laboratory; forged university-industry partnerships.
+
+- Founded and equipped a dedicated sheet-metal forming and CAD/CAM laboratory.
 
 ---
 
@@ -59,22 +64,27 @@ Results-driven engineering leader with 20+ years spanning high-volume EV product
 - 🎓 **Ph.D. Mechanical Engineering** — IIT Delhi, India · 2012–2018
 - 🎓 **M.Sc. Manufacturing Engineering** — Addis Ababa University / IIT Delhi · 2008–2010
 - 🎓 **B.Sc. Manufacturing Technology** — Adama Science and Technology University · 2004–2008
+- 🎓 **Associate's Degree, Advanced Metal Technology** — MfM Agro-Technical Training College, Harar, Ethiopia · 2000–2003
 
 ---
 
 ## 📌 Featured Projects
 
+### 🧰 [pfmea-doc-gen](https://github.com/Fitsumtf/pfmea-doc-gen) — PFMEA & Failure Analysis Report Generator
+
+Python package that generates professional, color-coded PFMEA and 8D-style Failure Analysis reports as Word documents from structured inputs — turning engineering knowledge into structured, reusable assets.
+
 ### ⚡ Tesla EV End-of-Line Optimization
-Designed and commissioned mechanical joining systems and EOL process improvements for Model Y & Model 3, achieving 85% efficiency gain through targeted automation, Lean principles, and Six Sigma DoE.
 
-### 📊 Power BI Manufacturing Intelligence Dashboard
-Deployed Power BI-driven visual management systems at Thermo Fisher Scientific to monitor non-conformance, MRB, downtime, and maintenance — enabling real-time data-driven decision-making.
+Designed and launched the first Body Fitting SOP for Model Y & Model 3; improved throughput from ~40 to 48–50 JPH through targeted process design, Lean principles, and Six Sigma DoE.
 
-### 🌾 Industrial Machinery R&D (Mezewir Industrial Solutions)
-Founded and led end-to-end R&D engineering for advanced agricultural and industrial machinery, from concept through prototyping, validation, and full production launch.
+### 📊 Power BI Manufacturing Intelligence Dashboards
+
+Deployed Power BI visual management systems at Thermo Fisher Scientific to monitor non-conformance, MRB, downtime, and maintenance — enabling real-time, data-driven decisions.
 
 ### 🔬 Ultra-Fine-Grain Aluminium Alloys Research (IIT Delhi)
-Authored peer-reviewed publications on cryogenic rolling, constrained groove pressing, and sheet hydroforming with applications in lightweight high-strength structural metals.
+
+Peer-reviewed publications on cryogenic rolling, constrained groove pressing, and sheet hydroforming for lightweight high-strength structural metals.
 
 ---
 
@@ -82,17 +92,17 @@ Authored peer-reviewed publications on cryogenic rolling, constrained groove pre
 
 - **ASME** · **ISME** · **ESME** · MS&T · TMS (former)
 - **Peer Reviewer:** *Recent Patents on Engineering* · *Journal of Management Science and Engineering Research* · *Advanced Intelligent Manufacturing Technology*
-- **Languages:** English (Fluent) · Amharic (Fluent) · Oromia (Intermediate) · Hindi & German (Fair)
+- **Community Leadership:** Board Director, ECS (Ethiopian Community Services)
+- **Languages:** English (Fluent) · Amharic (Fluent) · Afaan Oromo (Intermediate) · Hindi & German (Fair)
 
 ---
 
 ## 📬 Connect with Me
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/dr-fitsum-feyissa-45949443)
-- 📧 fitsumtf@activemails.net
-- 📧 fitsum.tf@gmail.com
+- 📧 <fitsum.tf@gmail.com>
 - 📍 Santa Clara, CA, USA
 
 ---
 
-*Open to senior engineering management opportunities — Director/VP of Engineering, Chief Engineer, or equivalent leadership roles in advanced manufacturing, EV, semiconductor, or AI-driven industrial systems.*
+*Passionate about the intersection of manufacturing engineering and AI — building tools and processes that make engineering knowledge structured, searchable, and reusable.*
