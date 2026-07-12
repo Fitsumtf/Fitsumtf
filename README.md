@@ -1,6 +1,6 @@
 # Hi, I'm Dr. Fitsum Taye Feyissa 👋
 
-> **Manufacturing & Process Engineer · Ph.D. · 20+ Years Global Experience · AI/ML in Manufacturing**
+> **Manufacturing & Mechanical Engineer · Ph.D. · 20+ Years Global Experience · AI/ML in Manufacturing**
 >
 > Santa Clara, CA · [LinkedIn](https://www.linkedin.com/in/dr-fitsum-feyissa-45949443) · <fitsum.tf@gmail.com>
 
@@ -8,14 +8,14 @@
 
 ## About Me
 
-Manufacturing and process engineer with 20+ years spanning high-volume EV production at **Tesla**, precision instrument manufacturing at **Thermo Fisher Scientific**, and advanced materials R&D at **IIT Delhi**. Currently pursuing an **M.Sc. in Applied Data Science (AI & ML)** — building at the intersection of physical manufacturing and intelligent software.
+Manufacturing and Mechanical Engineer with 20+ years spanning high-volume EV production at **Tesla**, precision instrument manufacturing at **Thermo Fisher Scientific**, and advanced materials R&D at **IIT Delhi**. Currently pursuing an **M.Sc. in Applied Data Science (AI & ML)** — building at the intersection of physical manufacturing and intelligent software.
 
 - 🔧 Improved Body Fitting throughput from ~40 to **48–50 JPH** and achieved **95% loose-object defect reduction** on Tesla's Model Y/Model 3 lines
 - 🏭 Expert in **DFM, PFMEA, Lean/Six Sigma, OEE optimization**, and end-of-line process development
 - 📋 Standardized **200+ work instructions** and reduced scrap **15%** at Thermo Fisher Scientific
 - 🤖 Building tools that turn engineering knowledge into structured, reusable assets — see [`pfmea-doc-gen`](https://github.com/Fitsumtf/pfmea-doc-gen)
-- 📄 Published researcher (7+ international publications) and peer reviewer for engineering journals
 - 🤖 Building AI tools that turn engineering knowledge into structured, searchable assets — see [`design-review-miner`](https://github.com/Fitsumtf/design-review-miner) and [`pfmea-doc-gen`](https://github.com/Fitsumtf/pfmea-doc-gen)
+- 📄 Published researcher (7+ international publications) and peer reviewer for engineering journals <hi:5>
 
 ---
 
@@ -72,15 +72,13 @@ Manufacturing and process engineer with 20+ years spanning high-volume EV produc
 ## 📌 Featured Projects
 
 ### 🧰 [pfmea-doc-gen](https://github.com/Fitsumtf/pfmea-doc-gen) — PFMEA & Failure Analysis Report Generator
-### 🤖 [design-review-miner](https://github.com/Fitsumtf/design-review-miner) — AI Retrieval of Past Engineering Lessons
-
-Machine learning tool (TF-IDF + cosine similarity) that indexes historical design review and failure records, then automatically surfaces similar past issues — with their root causes and proven fixes — when a new problem is described. A working prototype of AI-assisted design review.
-
+- 🤖 Building AI tools that turn engineering knowledge into structured, searchable assets — see [`design-review-miner`](https://github.com/Fitsumtf/design-review-miner) and [`pfmea-doc-gen`](https://github.com/Fitsumtf/pfmea-doc-gen)
 Python package that generates professional, color-coded PFMEA and 8D-style Failure Analysis reports as Word documents from structured inputs — turning engineering knowledge into structured, reusable assets.
-
 ### 🤖 [design-review-miner](https://github.com/Fitsumtf/design-review-miner) — AI Retrieval of Past Engineering Lessons
 
 Machine learning tool (TF-IDF + cosine similarity) that indexes historical design review and failure records, then automatically surfaces similar past issues — with their root causes and proven fixes — when a new problem is described. A working prototype of AI-assisted design review.
+
+
 ### ⚡ Tesla EV End-of-Line Optimization
 
 Designed and launched the first Body Fitting SOP for Model Y & Model 3; improved throughput from ~40 to 48–50 JPH through targeted process design, Lean principles, and Six Sigma DoE.
