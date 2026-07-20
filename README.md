@@ -22,7 +22,7 @@ Manufacturing and Mechanical Engineer with more than 20 years of experience span
 
 | Domain | Skills |
 | --- | --- |
-| **Mecanical, Manufacturing & Operations** | Product Design, Process Design, Production launch · General Assembly · End of Line · Lean · Six Sigma · OEE · line balancing · MODAPTS/MOST · automation · commissioning |
+| **Mechanical, Manufacturing & Operations** | Product Design, Process Design, Production launch · General Assembly · End of Line · Lean · Six Sigma · OEE · line balancing · MODAPTS/MOST · automation · commissioning |
 | **Quality & Risk** | PFMEA · control plans · process capability · Gauge R&R · SPC · 8D · root-cause analysis · MRB · ISO 13485 · ISO 14971 · FDA QMSR |
 | **Tooling & Industrialization** | DFM/DFA · jigs and fixtures · error proofing · mechanical joining · equipment installation · validation · production handoff |
 | **Digital & Data** | Python · R · Power BI · DAX · SQL concepts · AI/ML · BM25 and semantic retrieval · statistical analysis · technical reporting |
