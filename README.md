@@ -46,7 +46,7 @@ Manufacturing and Mechanical Engineer with more than 20 years of experience span
 
 **Co-Founder & R&D Engineering Head** — *Mezewir Industrial Solutions PLC* `2022–2025`
 
-- Built and led a 16-person R&D organization for agricultural and industrial machinery, from concept and design through manufacturing and production launch.
+- Built and led a 10-person R&D organization for agricultural and industrial machinery, from concept and design through manufacturing and production launch.
 
 **Research Scholar – Advanced Forming Techniques** — *IIT Delhi, India* `2012–2018`
 
