@@ -5,7 +5,7 @@ Santa Clara, California · Mechanical design · Materials & forming · Supplier 
 
 **I connect engineering design, materials science, supplier development, product industrialization, manufacturing operations, quality systems, and AI-enabled decision support—from concept and validation to scalable production.**
 
-[![FODGuard](https://img.shields.io/badge/DEMO-FODGuard-0D9488?style=for-the-badge)](https://fod-guard.streamlit.app)
+[![FODGuard Live App](https://img.shields.io/badge/FODGuard-LIVE%20APP-0D9488?style=for-the-badge)](https://fod-guard.streamlit.app)
 [![IE Calculator](https://img.shields.io/badge/TOOL-IE%20Calculator-2563EB?style=for-the-badge)](https://fitsumtf.github.io/fitex-industrial-engineering-calculator/)
 [![Consulting](https://img.shields.io/badge/FITEX-Engineering%20Services-273A56?style=for-the-badge)](https://fitexindustrial.com/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/dr-fitsum-feyissa-45949443)
